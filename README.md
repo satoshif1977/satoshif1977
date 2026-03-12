@@ -1,0 +1,67 @@
+# Satoshi Fujimura（さとっぺ）
+
+クラスメソッドテクノロジーズに勤務しながら、クラウドエンジニアへの転身を目指しています。
+**Claude Code を活用した AI 駆動開発**を日々の学習・実践スタイルとし、IaC からアプリケーション開発まで幅広く取り組んでいます。
+
+---
+
+## About
+
+- **所属**: クラスメソッドテクノロジーズ（バックオフィス）
+- IT 業界 2 年目。実務を通じてクラウドエンジニアを目指しています
+- 多業種（飲食・イベント事業・小売）を経て 40 代後半で IT 業界へキャリアチェンジ
+- AWS 12 冠を 15 ヶ月で取得。資格学習で培った幅広い AWS 知識をポートフォリオで実践しています
+
+---
+
+## Development Style
+
+**Claude Code** と対話しながら、AWS のベストプラクティスに沿った構成を形にしています。
+Terraform を軸に、インフラ構築・コーディング・ドキュメント整備まで AI を活用して効率的に進めることを重視しています。
+「まだ実務経験は浅い」からこそ、AI ツールを最大限に使いながら質の高いアウトプットを出す方法を日々探っています。
+
+---
+
+## Tech Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+| カテゴリ | 技術 |
+|---------|------|
+| IaC | Terraform（モジュール構成・CI/CD 連携） |
+| Cloud | AWS（VPC / Lambda / API Gateway / S3 / CloudWatch / Bedrock など） |
+| AI | Amazon Bedrock（RAG / Agents）/ Claude Code |
+| Language | Python |
+
+---
+
+## AWS Certifications — 12 冠
+
+2025 年 1 月〜12 月の 15 ヶ月で AWS 認定資格 12 冠を取得。
+2026 年 3 月に **AWS Certified AI Practitioner** および **AWS Certified Machine Learning Engineer – Associate** を受験予定。
+
+> 取得資格の詳細は Credly プロフィールからご確認いただけます。（リンク追加予定）
+
+**その他の資格**: ITコーディネータ / CCNA / LPIC / JP1
+
+---
+
+## Featured Repositories
+
+| リポジトリ | 概要 |
+|-----------|------|
+| [aws-rag-knowledgebase](https://github.com/satoshif1977/aws-rag-knowledgebase) | S3 + API Gateway + Lambda + Bedrock による RAG PoC。Streamlit Web UI 付き |
+| [aws-bedrock-agent](https://github.com/satoshif1977/aws-bedrock-agent) | Bedrock + Lambda の FAQ 自動応答ボット。Streamlit Web UI から直接 Invoke |
+| [aws-multimodal-analysis](https://github.com/satoshif1977/aws-multimodal-analysis) | S3 → Bedrock → DynamoDB の業務文書自動解析 PoC |
+| [terraform-aws-operations](https://github.com/satoshif1977/terraform-aws-operations) | CloudWatch 監視・SNS 通知・障害対応 Runbook を Terraform で実装 |
+| [terraform-3tier-webapp](https://github.com/satoshif1977/terraform-3tier-webapp) | AWS 3 層 Web アーキテクチャ（VPC / ALB / EC2 / RDS Multi-AZ）を Terraform モジュール構成で実装 |
+
+---
+
+## Contact
+
+- Developers.IO: [dev.classmethod.jp/author/fujimura-satoshi](https://dev.classmethod.jp/author/fujimura-satoshi/)
+- GitHub の Issues / Discussions からもお気軽にどうぞ
