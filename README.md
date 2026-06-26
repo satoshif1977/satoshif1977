@@ -9,7 +9,7 @@
 
 - IT 業界 2 年目。実務を通じてクラウドエンジニアを目指しています
 - 多業種（飲食・イベント事業・小売）を経て 40 代後半で IT 業界へキャリアチェンジ
-- AWS 12 冠を 15 ヶ月で取得。資格学習で培った幅広い AWS 知識をポートフォリオで実践しています
+- AWS 全冠達成（2026 年 6 月）。**2026 Japan All AWS Certifications Engineers** 選出
 
 ---
 
@@ -45,9 +45,9 @@ Terraform / Python / AWS に特化した**カスタム Skills** を設定・継�
 
 ---
 
-## AWS Certifications — 12 冠
+## AWS Certifications — 全冠
 
-2024 年 10 月〜2025 年 12 月の 15 ヶ月で AWS 認定資格 12 冠を取得。
+AWS 認定資格 全冠を達成。**2026 Japan All AWS Certifications Engineers** に選出。
 
 > 取得資格の詳細は [Credly プロフィール](https://www.credly.com/users/satoshi-fujimura-aws) からご確認いただけます。
 
