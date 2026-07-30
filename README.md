@@ -28,6 +28,7 @@ Terraform / Python / AWS に特化した**カスタム Skills** を設定・継�
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -40,8 +41,8 @@ Terraform / Python / AWS に特化した**カスタム Skills** を設定・継�
 | Cloud | AWS（VPC / Lambda / API Gateway / S3 / ECS Fargate / Step Functions / Bedrock など） |
 | AI | Amazon Bedrock（RAG / Agents / Knowledge Bases）/ Claude Code |
 | Container | Docker / Amazon ECS Fargate / Amazon ECR |
-| CI/CD | GitHub Actions（OIDC 認証・ECR push・ECS 自動デプロイ） |
-| Language | Python / TypeScript |
+| CI/CD | GitHub Actions（OIDC 認証・ECR push・ECS 自動デプロイ）/ AWS CodePipeline + CodeBuild |
+| Language | Python / TypeScript / Go |
 
 ---
 
@@ -77,7 +78,14 @@ AWS 認定資格 全冠を達成。**2026 Japan All AWS Certifications Engineers
 | [aws-cdk-multimodal](https://github.com/satoshif1977/aws-cdk-multimodal) | AWS CDK（TypeScript）で S3 → Bedrock マルチモーダル解析パイプラインを実装。Terraform との比較も意識 |
 | [terraform-aws-operations](https://github.com/satoshif1977/terraform-aws-operations) | CloudWatch 監視・SNS 通知・障害対応 Runbook を Terraform で実装した運用自動化PoC |
 | [aws-eventbridge-lambda](https://github.com/satoshif1977/aws-eventbridge-lambda) | EventBridge スケジュール実行 + S3 イベント駆動の 2 パターンを Terraform で実装 |
+| [aws-cdk-serverless-api](https://github.com/satoshif1977/aws-cdk-serverless-api) | AWS CDK（TypeScript）× API Gateway HTTP API + Lambda + DynamoDB サーバーレス CRUD API。WebSocket 対応・cdk-nag セキュリティ検証付き |
 | [aws-client-vpn-saml-migration](https://github.com/satoshif1977/aws-client-vpn-saml-migration) | Cisco VPN → AWS Client VPN（SAML 認証）移行設計・手順書セット（実案件ベース・匿名化済み） |
+
+### CI/CD
+
+| リポジトリ | 概要 |
+|-----------|------|
+| [aws-cicd-ecs-pipeline](https://github.com/satoshif1977/aws-cicd-ecs-pipeline) | AWS CodePipeline + CodeBuild + ECR + ECS による本番想定 CI/CD パイプライン。CDK（TypeScript）+ Terraform IaC。cdk-nag セキュリティ検証・多言語テスト付き |
 
 ### 業務自動化 / GAS
 
