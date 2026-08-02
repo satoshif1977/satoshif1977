@@ -46,6 +46,18 @@ Terraform / Python / AWS に特化した**カスタム Skills** を設定・継�
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satoshif1977&show_icons=true&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshif1977&layout=compact&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=e2e8f0&langs_count=8)
+
+</div>
+
+---
+
 ## AWS Certifications — 全冠
 
 AWS 認定資格 全冠を達成。**2026 Japan All AWS Certifications Engineers** に選出。
